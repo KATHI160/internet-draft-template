@@ -25,7 +25,7 @@ category: info
 
 docname: draft-todo-yourname-protocol-latest
 submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
-number:
+number:kathi160
 date:
 consensus: true
 v: 3
@@ -38,16 +38,16 @@ keyword:
 venue:
   group: WG
   type: Working Group
-  mail: WG@example.com
+  mail: kthi02042003@gmail.com
   arch: https://example.com/WG
-  github: USER/REPO
+  github: kathi160
   latest: https://example.com/LATEST
 
 author:
  -
-    fullname: Your Name Here
+    fullname: Ka Thi
     organization: Your Organization Here
-    email: your.email@example.com
+    email: your.kthi02042003@gmail.com
 
 normative:
 
